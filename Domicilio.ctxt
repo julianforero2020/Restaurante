@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Domicilio
+comment1.params=
+comment1.target=Domicilio()
+comment2.params=id\ fecha\ Lugar\ sucursal
+comment2.target=Domicilio(java.lang.Integer,\ java.util.Date,\ java.lang.String,\ sucursal)
+comment3.params=
+comment3.target=java.lang.Integer\ getId()
+comment4.params=id
+comment4.target=void\ setId(java.lang.Integer)
+comment5.params=
+comment5.target=java.lang.String\ getLugar()
+comment6.params=Lugar
+comment6.target=void\ setLugar(java.lang.String)
+comment7.params=
+comment7.target=sucursal\ getSucursal()
+comment8.params=sucursal
+comment8.target=void\ setSucursal(sucursal)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
